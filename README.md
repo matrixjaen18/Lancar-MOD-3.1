@@ -5,5 +5,7 @@ Es solo un proyecto de Lancar MOD 3.0 Actualizado para funcionar en cualquier si
 INSTALACIÓN:
 
 wget https://github.com/matrixjaen18/Lancar-MOD-3.1/raw/refs/heads/main/install.sh
+
 chmod +x install.sh
+
 sudo ./install.sh
