@@ -9,3 +9,7 @@ wget https://github.com/matrixjaen18/Lancar-MOD-3.1/raw/refs/heads/main/install.
 chmod +x install.sh
 
 sudo ./install.sh
+
+¡IMPORTANTE!
+
+¡ESTOY TRABAJANDO EN ÉL, AUN NO FUNCIONA!
